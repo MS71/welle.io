@@ -1,4 +1,4 @@
-Thos fork is for making it useable within my cmp_buildroot project.
+This fork is for making it useable within my cmp_buildroot project.
 
 [welle.io](https://www.welle.io)
 =====================
